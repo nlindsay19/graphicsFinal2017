@@ -1,0 +1,113 @@
+<RCC>
+    <qresource prefix="/shaders">
+        <file alias="default.frag">shaders/shader.frag</file>
+        <file alias="default.vert">shaders/shader.vert</file>
+        <file>shaders/skybox.vert</file>
+        <file>shaders/skybox.frag</file>
+        <file>shaders/sphere.frag</file>
+        <file>shaders/sphere.vert</file>
+        <file>shaders/sun.frag</file>
+        <file>shaders/sun.vert</file>
+        <file>shaders/blur.frag</file>
+        <file>shaders/blur.vert</file>
+        <file>shaders/hdr.frag</file>
+        <file>shaders/hdr.vert</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>images/skyboxsickback.jpg</file>
+        <file>images/skyboxsickbottom.jpg</file>
+        <file>images/skyboxsickfront.jpg</file>
+        <file>images/skyboxsickright.jpg</file>
+        <file>images/skyboxsicktop.jpg</file>
+        <file>images/skyboxsickleft.jpg</file>
+    </qresource>
+    <qresource prefix="/mercury">
+        <file>images/mercurytop.jpg</file>
+        <file>images/mercuryright.jpg</file>
+        <file>images/mercuryleft.jpg</file>
+        <file>images/mercuryfront.jpg</file>
+        <file>images/mercuryback.jpg</file>
+        <file>images/mercurybottom.jpg</file>
+    </qresource>
+    <qresource prefix="/mars">
+        <file>images/marstop.jpg</file>
+        <file>images/marsright.jpg</file>
+        <file>images/marsleft.jpg</file>
+        <file>images/marsfront.jpg</file>
+        <file>images/marsbottom.jpg</file>
+        <file>images/marsback.jpg</file>
+    </qresource>
+    <qresource prefix="/sun">
+        <file>images/sun /sunback250px.jpg</file>
+        <file>images/sun /sunbottom250px.jpg</file>
+        <file>images/sun /sunfront250px.jpg</file>
+        <file>images/sun /sunleft250px.jpg</file>
+        <file>images/sun /sunright250px.jpg</file>
+        <file>images/sun /suntop250px.jpg</file>
+    </qresource>
+    <qresource prefix="/earth">
+        <file>images/earthback.jpg</file>
+        <file>images/earthbottom.jpg</file>
+        <file>images/earthfront.jpg</file>
+        <file>images/earthleft.jpg</file>
+        <file>images/earthright.jpg</file>
+        <file>images/earthtop.jpg</file>
+    </qresource>
+    <qresource prefix="/jupiter">
+        <file>images/topj.jpg</file>
+        <file>images/rightj.jpg</file>
+        <file>images/leftj.jpg</file>
+        <file>images/frontj.jpg</file>
+        <file>images/bottomj.jpg</file>
+        <file>images/backj.jpg</file>
+    </qresource>
+    <qresource prefix="/venus">
+        <file>images/bottomv.jpg</file>
+        <file>images/frontv.jpg</file>
+        <file>images/leftv.jpg</file>
+        <file>images/rightv.jpg</file>
+        <file>images/topv.jpg</file>
+        <file>images/backv.jpg</file>
+        <file>images/venustop.jpg</file>
+    </qresource>
+    <qresource prefix="/neptune">
+        <file>images/neptunebottom.jpg</file>
+        <file>images/neptuneback.jpg</file>
+        <file>images/neptuneleft.jpg</file>
+        <file>images/neptunefront.jpg</file>
+        <file>images/neptuneright.jpg</file>
+        <file>images/neptunetop.jpg</file>
+    </qresource>
+    <qresource prefix="/saturn">
+        <file>images/saturnback.jpg</file>
+        <file>images/saturnbottom.jpg</file>
+        <file>images/saturnfront.jpg</file>
+        <file>images/saturnleft.jpg</file>
+        <file>images/saturnright.jpg</file>
+        <file>images/saturntop.jpg</file>
+    </qresource>
+    <qresource prefix="/uranus">
+        <file>images/uranusback.jpg</file>
+        <file>images/uranusbottom.jpg</file>
+        <file>images/uranusfront.jpg</file>
+        <file>images/uranusleft.jpg</file>
+        <file>images/uranusright.jpg</file>
+        <file>images/uranustop.jpg</file>
+    </qresource>
+    <qresource prefix="/pluto">
+        <file>images/plutoback.jpg</file>
+        <file>images/plutobottom.jpg</file>
+        <file>images/plutofront.jpg</file>
+        <file>images/plutoleft.jpg</file>
+        <file>images/plutoright.jpg</file>
+        <file>images/plutotop.jpg</file>
+    </qresource>
+    <qresource prefix="/normals">
+        <file>images/funky.jpg</file>
+        <file>images/betterearthnormal.jpg</file>
+        <file>images/mercurynormals.jpg</file>
+        <file>images/randomnormalmap.jpg</file>
+        <file>images/marsnormal.jpg</file>
+        <file>images/fillernormal.jpg</file>
+    </qresource>
+</RCC>
